@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Food Menu</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <!-- Sidebar -->
+    <div class="sidebar">
+      <div class="logo-container">
+        <div class="sidebar-logo">
+            <img src="logo.png" alt="logo">
+        </div>
+        <p>Your Restaurant Menu</p>
+        <p class="slogan">You can't eat here just once</p>
+      </div>
+      <div class="quick-links">
+        <h2>Quick Links</h2>
+        <ol>
+          <li>Home</li>
+          <li>Your Orders</li>
+          <li>Wallet</li>
+          <li>Profile</li>
+          <li>Logout</li>
+        </ol>
+      </div>
+      <div class="more-about-us">
+        <h2>More About Us</h2>
+        <ol>
+          <li>Our blog</li>
+          <li>Upcoming Dishes</li>
+          <li>Our Story</li>
+          <li>Social Media Links</li>
+        </ol>
+      </div>
+    </div>
+
+    <!-- Main Content -->
+    <main class="main-content">
+      <header class="header">
+        <input type="text" placeholder="Search Food Item" class="search-bar">
+        <div class="auth-buttons">
+          <button class="signup btn">Signup</button>
+          <button class="login btn">Login</button>
+        </div>
+        <div class="header-logo">
+            <img src="logo.png" alt="nav-logo">
+        </div>
+      </header>
+
+      <!-- Hero Section -->
+      <section class="hero">
+        <img src="offer-image.png" alt="offer-image">
+      </section>
+
+      <!-- Menu Section -->
+      <section class="menu">
+        <!-- Menu Heading -->
+        <h2>Menu</h2>
+        <!-- Menu items Container -->
+         <div id="menu-items-list">
+         </div>
+      </section>
+    </main>
+    <script type="module" src="script.js"></script>
+  </div>
+</body>
+</html>

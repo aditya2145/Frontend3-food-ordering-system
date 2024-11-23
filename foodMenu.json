@@ -1,0 +1,123 @@
+[
+    {
+      "name": "Classic Burger",
+      "price": 8.99,
+      "imgSrc": "https://www.themealdb.com/images/media/meals/1548772327.jpg"
+    },
+    {
+      "name": "Cheese Burger",
+      "price": 9.99,
+      "imgSrc": "https://www.themealdb.com/images/media/meals/ustsqw1468250014.jpg"
+    },
+    {
+      "name": "Veggie Burger",
+      "price": 7.99,
+      "imgSrc": "https://www.themealdb.com/images/media/meals/g046bb1663960946.jpg"
+    },
+    {
+      "name": "Grilled Chicken Sandwich",
+      "price": 11.49,
+      "imgSrc": "https://www.themealdb.com/images/media/meals/uuyrrx1487327597.jpg"
+    },
+    {
+      "name": "Fish Burger",
+      "price": 12.99,
+      "imgSrc": "https://www.themealdb.com/images/media/meals/1529444830.jpg"
+    },
+    {
+      "name": "BBQ Chicken Burger",
+      "price": 10.49,
+      "imgSrc": "https://www.themealdb.com/images/media/meals/yypwwq1511304979.jpg"
+    },
+    {
+      "name": "Double Cheeseburger",
+      "price": 12.99,
+      "imgSrc" : "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg"
+    },
+    {
+      "name": "Bacon Cheeseburger",
+      "price": 13.49,
+      "imgSrc": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg"
+    },
+    {
+      "name": "Buffalo Chicken Sandwich",
+      "price": 10.99,
+      "imgSrc": "https://www.themealdb.com/images/media/meals/qwtrtp1511799242.jpg"
+    },
+    {
+      "name": "Spicy Chicken Burger",
+      "price": 9.49,
+      "imgSrc": "https://www.themealdb.com/images/media/meals/xxrxux1503070723.jpg"
+    },
+    {
+      "name": "Classic Burger",
+      "price": 8.99,
+      "imgSrc": "https://www.themealdb.com/images/media/meals/1548772327.jpg"
+    },
+    {
+      "name": "Cheese Burger",
+      "price": 9.99,
+      "imgSrc": "https://www.themealdb.com/images/media/meals/ustsqw1468250014.jpg"
+    },
+    {
+      "name": "Veggie Burger",
+      "price": 7.99,
+      "imgSrc": "https://www.themealdb.com/images/media/meals/g046bb1663960946.jpg"
+    },
+    {
+      "name": "Grilled Chicken Sandwich",
+      "price": 11.49,
+      "imgSrc": "https://www.themealdb.com/images/media/meals/uuyrrx1487327597.jpg"
+    },
+    {
+      "name": "Fish Burger",
+      "price": 12.99,
+      "imgSrc": "https://www.themealdb.com/images/media/meals/1529444830.jpg"
+    },
+    {
+      "name": "BBQ Chicken Burger",
+      "price": 10.49,
+      "imgSrc": "https://www.themealdb.com/images/media/meals/yypwwq1511304979.jpg"
+    },
+    {
+      "name": "Double Cheeseburger",
+      "price": 12.99,
+      "imgSrc" : "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg"
+    },
+    {
+      "name": "Bacon Cheeseburger",
+      "price": 13.49,
+      "imgSrc": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg"
+    },
+    {
+      "name": "Buffalo Chicken Sandwich",
+      "price": 10.99,
+      "imgSrc": "https://www.themealdb.com/images/media/meals/qwtrtp1511799242.jpg"
+    },
+    {
+      "name": "Spicy Chicken Burger",
+      "price": 9.49,
+      "imgSrc": "https://www.themealdb.com/images/media/meals/xxrxux1503070723.jpg"
+    },
+    {
+      "name": "Double Cheeseburger",
+      "price": 12.99,
+      "imgSrc" : "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg"
+    },
+    {
+      "name": "Bacon Cheeseburger",
+      "price": 13.49,
+      "imgSrc": "https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg"
+    },
+    {
+      "name": "Buffalo Chicken Sandwich",
+      "price": 10.99,
+      "imgSrc": "https://www.themealdb.com/images/media/meals/qwtrtp1511799242.jpg"
+    },
+    {
+      "name": "Spicy Chicken Burger",
+      "price": 9.49,
+      "imgSrc": "https://www.themealdb.com/images/media/meals/xxrxux1503070723.jpg"
+    }
+  ]
+  

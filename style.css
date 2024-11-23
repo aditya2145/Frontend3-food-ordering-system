@@ -1,0 +1,201 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #0C0E10;
+    color: white;
+    width: 100vw;
+    overflow-x: hidden;
+    font-family: sans-serif;
+    font-size: 1.1rem;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+}
+
+.sidebar {
+    width: 20%;
+    max-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    align-items: center;
+}
+
+.logo-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+    align-items: center;
+}
+
+.sidebar-logo {
+    border-radius: 50%;
+    overflow: hidden;
+    width: 13rem;
+    height: 13rem;
+}
+
+.sidebar-logo img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.slogan {
+    color: red;
+}
+
+.quick-links, .more-about-us {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+ol {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.main-content {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    background-color: #111315;
+    padding: 0 1.2rem;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 4rem;
+    background-color: #191D20;
+    padding: 1.4rem;
+}
+
+.header-logo {
+    height: 3rem;
+    width: 3rem;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+.header-logo img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.search-bar {
+    width: 45rem;
+    height: 2.8rem;
+    background-color: #272A30;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 0rem 1rem;
+    font-size: medium;
+}
+
+.auth-buttons {
+    display: flex;
+    gap: 1rem;
+}
+
+.btn {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 0.8rem 3rem;
+    border-radius: 0.3rem;
+    font-size: medium;
+}
+
+.hero {
+    width: 70rem;
+    height: 24rem;
+    overflow: hidden;
+    border-radius: 1rem;
+}
+
+.hero img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.menu {
+    display: flex;
+    flex-direction: column;
+    gap: 1.3rem;
+}
+
+#menu-items-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.7rem;
+}
+
+.menu-item {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    padding: 0.7rem;
+    border-radius: 0.4rem;
+    background-color: #191D20;
+}
+
+.item-main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.item-details {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.item-price {
+    color: rgb(199, 194, 194);
+}
+
+.food-img {
+    width: 21rem;
+    height: 12rem;
+    border-radius: 0.3rem;
+    overflow: hidden;
+}
+
+.food-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.add-to-cart {
+    height: 2.1rem;
+    width: 2.1rem;
+    border: none;
+    overflow: hidden;
+}
+
+.add-to-cart img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    background-color: #191D20;
+}
+
+button {
+    cursor: pointer;
+}
